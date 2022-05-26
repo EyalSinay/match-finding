@@ -1,0 +1,14 @@
+.display-count{
+    padding: 8px;
+    font-size: 24px;
+}
+
+.counter-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.smiley{
+    width: 50px;
+}
